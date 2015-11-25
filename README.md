@@ -1,6 +1,7 @@
-# DOUAudioStreamer 使用的例子
+# NSURLSession的Download 使用的例子
 本例子，介绍如何使用 NSURLSession的Download Task 方式下载任务，包括下载队列，下载后放入指定文件夹。
 
+![download](download.gif)
 
 ## tips
 
